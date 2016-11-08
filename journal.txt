@@ -2,7 +2,7 @@ Authors:
 Jas Kalayan
 John Widom
 Title:
-Computation and informatics approach to proteins and excipients
+Proteins and excipients - Computation and informatics approach 
 Introduction:
 Investigate interations between proteins and excipients.
 Some work has already been done on this (Kalayan et al 2016).
