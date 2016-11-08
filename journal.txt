@@ -3,6 +3,8 @@ Jas Kalayan
 John Widom
 Title:
 Proteins and excipients - Computation and informatics approach 
+Abstract:
+Simple MD of lysozyme and citrate.
 Introduction:
 Investigate interations between proteins and excipients.
 Some work has already been done on this (Kalayan et al 2016).
