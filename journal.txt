@@ -1,5 +1,6 @@
 Authors:
 John Widom
+Author affiliations:
 Jas Kalayan
 Title:
 Proteins and excipients - Computation and informatics approach 
@@ -17,3 +18,4 @@ More time required.
 Acknowledgments:
 We are very greatful for the EU funding that we'll never see again!
 This is a second ackowledgment
+
