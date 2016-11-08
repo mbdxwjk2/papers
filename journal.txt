@@ -8,5 +8,7 @@ Investigate interations between proteins and excipients.
 Some work has already been done on this (Kalayan et al 2016).
 Methodology:
 MD simulations using amber (Rahman et al 2016).
+Results:
+We saw citrate interacting with positively charged residues.
 Conclusion:
 More time required.
