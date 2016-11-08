@@ -1,6 +1,6 @@
 Authors:
-Jas Kalayan
 John Widom
+Jas Kalayan
 Title:
 Proteins and excipients - Computation and informatics approach 
 Abstract:
