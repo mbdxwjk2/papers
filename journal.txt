@@ -1,7 +1,7 @@
 Author:
 Jas Kalayan
 Title:
-Protein-Excipient Interactions
+Protein-Excipient Interactions using Computation
 Introduction:
 Investigate interations between proteins and excipients.
 Some work has already been done on this (Kalayan et al 2016).
