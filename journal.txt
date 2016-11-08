@@ -3,4 +3,5 @@ Jas Kalayan
 Title:
 Protein-Excipient Interactions
 Introduction:
-Investigate interations between proteins and excipients
+Investigate interations between proteins and excipients.
+Some work has already been done on this (Kalayan et al 2016).
